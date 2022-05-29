@@ -19,7 +19,6 @@ function App() {
     }
 
     const arrForFooterHeder = ['HEADER', 'FOOTER']
-
     return (
         <div>
             <Header/>
