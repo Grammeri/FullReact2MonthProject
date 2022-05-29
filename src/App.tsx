@@ -18,7 +18,6 @@ function App() {
         setCargoOfskills(cargoOfskills.map(el => el.id === id ? {...el, isDone: eventValue} : el))
     }
 
-
     const arrForFooterHeder = ['HEADER', 'FOOTER']
 
     return (
