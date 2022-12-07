@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FullReact2MonthProject/static/css/main.af9da788.css",
+    "main.js": "/FullReact2MonthProject/static/js/main.85e89f22.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FullReact2MonthProject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/woman.png": "/FullReact2MonthProject/static/media/woman.acddf72e7c98eff6eca5.png",
+    "static/media/napoleon.jpg": "/FullReact2MonthProject/static/media/napoleon.4d974077e09641c0881c.jpg",
+    "index.html": "/FullReact2MonthProject/index.html",
+    "main.af9da788.css.map": "/FullReact2MonthProject/static/css/main.af9da788.css.map",
+    "main.85e89f22.js.map": "/FullReact2MonthProject/static/js/main.85e89f22.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FullReact2MonthProject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9da788.css",
+    "static/js/main.85e89f22.js"
+  ]
+}
